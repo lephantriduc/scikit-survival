@@ -93,13 +93,13 @@ Dependencies
 
 The current minimum dependencies to run scikit-survival are:
 
-- Python 3.10 or later
+- Python 3.11 or later
 - ecos
 - joblib
 - numexpr
 - numpy
 - osqp
 - pandas 2.0.0 or later
-- scikit-learn 1.6 or 1.7
+- scikit-learn 1.8
 - scipy
 - C/C++ compiler
